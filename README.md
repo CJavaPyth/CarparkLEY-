@@ -1,6 +1,6 @@
 # CarparkLEY-
 
-CZ2006 -  Software Engineering
+CZ2006 -  Software Engineering project
 
 CarparkLEY is an application which allows drivers to check available lots near a destination in real-time.
 Drivers can check empty, lots, and detailed price rates of the carpark. This application is developed using flutter. Requirement elicitation, dynamic and analysis models
