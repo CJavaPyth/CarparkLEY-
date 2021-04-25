@@ -1,4 +1,4 @@
-# CarparkLEY-
+# CarparkLEY- A Carpark-checking Application for drivers
 
 CZ2006 -  Software Engineering project
 
